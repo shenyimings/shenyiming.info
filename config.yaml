@@ -1,6 +1,6 @@
-baseURL: "https://shenyiming-info.vercel.app/"
-languageCode: "en-us"
-title: "Hugo Profile"
+baseURL: "https://shenyiming-info.vercel.app"
+languageCode: "zh-cn"
+title: "申一鸣"
 theme: hugo-profile
 
 outputs:
