@@ -1,6 +1,6 @@
-baseURL: "http://shenyiming.life/shenyiming.info/"
-languageCode: "en-us"
-title: "Hugo Profile"
+baseURL: "http://shenyiming.info/"
+languageCode: "zh-cn"
+title: "Yiming Shen"
 theme: "hugo-profile"
 publishDir: "docs"
 outputs:
