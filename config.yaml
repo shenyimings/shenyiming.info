@@ -2,7 +2,7 @@ baseURL: "https://shenyiming.netlify.app"
 languageCode: "en-us"
 title: "Hugo Profile"
 theme: hugo-profile
-
+publishDir: "docs"
 outputs:
   home:
     - "HTML"
