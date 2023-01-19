@@ -55,7 +55,7 @@ Menus:
 params:
   title: "Hugo Profile"
   description: Text about my cool site
-  staticPath: "/shenyiming.info"  # The path to serve the static files from
+  # staticPath: "/shenyiming.info"  # The path to serve the static files from
   favicon: "/fav.png"
   assets:
     disableFingerprinting: true
