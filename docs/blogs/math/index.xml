@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Render Math With Mathjax on Yiming Shen</title>
-    <link>http://shenyiming.info/blogs/math/</link>
+    <link>https://shenyiming.info/blogs/math/</link>
     <description>Recent content in Render Math With Mathjax on Yiming Shen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 09 Dec 2022 19:53:33 +0530</lastBuildDate><atom:link href="http://shenyiming.info/blogs/math/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Dec 2022 19:53:33 +0530</lastBuildDate><atom:link href="https://shenyiming.info/blogs/math/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
