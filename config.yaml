@@ -32,7 +32,7 @@ Menus:
     - identifier: gallery
       name: Gallery
       title: Blog posts
-      url: /gallery
+      url: https://www.instagram.com/shenyimings/
       weight: 2
     #Dropdown menu
     # - identifier: dropdown
@@ -74,7 +74,7 @@ params:
 
   theme:
     # disableThemeToggle: true
-    # defaultTheme: "light" # dark
+    defaultTheme: "dark" # light
 
   font:
     fontSize: 1rem # default: 1rem
@@ -103,7 +103,7 @@ params:
   navbar:
     align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
     # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
-    brandName: "Yiming's Academic Page" # Brand name for the brand | default is the title variable
+    brandName: "Y. Shen / 申一鸣" # Brand name for the brand | default is the title variable
     disableSearch: true
     menus:
       disableAbout: false
@@ -119,7 +119,7 @@ params:
     title: "Yiming Shen"
     subtitle: "CTFer, Web3 & Blockchain Security"
     content: "Trying to unravel the mysteries of Web3 and uncover the hidden risks in blockchain to pave the way for a more secure digital landscape."
-    image: /fav.png
+    image: /images/me3.png
     button:
       enable: true
       name: "Resume"
@@ -142,7 +142,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/me3.png"
+    image: "/images/me2.png"
     content: |-
       I am a student of information security and cryptology, with a focus on web3 and blockchain security. My participation in web penetration and CTF events has sparked my interest in this field. I have dedicated myself to extensive research in uncovering the hidden risks and vulnerabilities in web3 security and blockchain security and hope to pave the way for a more secure digital landscape. With that aim, I am eager to further my education and gain practical experience in the area of cryptology and blockchain security.
 
